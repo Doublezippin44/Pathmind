@@ -3,7 +3,7 @@ AISC project by Pranav Shukla. A dependency-free, browser-based graph search lab
 
 ## Run locally
 From the project folder: `python3 -m http.server 8000 --directory dist`, then open http://localhost:8000. ES modules require HTTP rather than double-clicking index.html.
-
+live deployed version : https://pathmind-jade.vercel.app/#lab
 ## Test
 Node.js 20+: `npm test`. No npm installation is required.
 
